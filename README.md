@@ -28,7 +28,7 @@ The header section includes the navigation bar with the logo, address, search ba
 
 The banner section includes a promotional banner with links and a background image.
 
-![Banner Section](./navbar-header-banner (2).png)
+![Banner Section](./banner.png)
 
 ### Explanation
 
@@ -40,7 +40,7 @@ The banner section includes a promotional banner with links and a background ima
 
 The cards section displays four different product categories, each with an image and a "Shop Now" link.
 
-![Cards Section](./cards-footer 1.png)
+![Cards Section](./cards.png)
 
 ### Explanation
 
