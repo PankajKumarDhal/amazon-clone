@@ -1,3 +1,6 @@
+Hosted Link:- https://pankajkumardhal.github.io/amazon-clone/
+
+
 # Project Overview
 
 This project is a static HTML page designed to mimic the Amazon website layout. The page includes a header with a navigation bar, a banner, product cards, and a footer section. This document provides detailed explanations of each part of the HTML along with the CSS properties used to style them.
